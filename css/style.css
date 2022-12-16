@@ -1,7 +1,24 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-/*# sourceMappingURL=style.css.map */
+header,
+footer {
+  background: linear-gradient(to bottom, #6692c1, #75a0ca, #6692c1);
+  height: 50px;
+  width: 100%;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  background: red;
+  height: 50px;
+}/*# sourceMappingURL=style.css.map */

@@ -1,5 +1,28 @@
+$topFooter_color: linear-gradient(to bottom, #6692c1, #75a0ca, #6692c1);
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+header,
+footer {
+    background: $topFooter_color;
+    height: 50px;
+    width: 100%;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background: red;
+    height: 50px;
+    ;
+
 }

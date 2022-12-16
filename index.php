@@ -11,6 +11,18 @@
     <title>Orkut</title>
 </head>
 <body>
+
+<header>
+    <div class="container">Teste</div>
+</header>
+
+<main>
+    <div class="container">Teste</div>
+</main>
+
+<footer>
+    <div class="container">Teste</div>
+</footer>
     
 </body>
 </html>
