@@ -16,9 +16,25 @@ footer {
   bottom: 0;
 }
 
-.container {
-  width: 80%;
+.orkut-container {
+  width: 90%;
   margin: auto;
   background: red;
   height: 50px;
+}
+
+#orkut-logo {
+  width: 150px;
+  background: blue;
+  height: 100%;
+  position: relative;
+}
+#orkut-logo img {
+  max-width: 90%;
+  max-height: 90%;
+  background-color: green;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }/*# sourceMappingURL=style.css.map */

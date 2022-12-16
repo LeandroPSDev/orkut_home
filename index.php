@@ -13,15 +13,17 @@
 <body>
 
 <header>
-    <div class="container">Teste</div>
+    <div class="orkut-container">
+        <div id="orkut-logo"><a href="#"><img src="images/orkut-logo.png" alt="Orkut" title="Orkut" /></a></div>
+    </div>
 </header>
 
 <main>
-    <div class="container">Teste</div>
+    <!--<div class="orkut-container">Teste</div>-->
 </main>
 
 <footer>
-    <div class="container">Teste</div>
+    <div class="orkut-container">Teste</div>
 </footer>
     
 </body>
