@@ -8,7 +8,7 @@
     <link href="css/style.css" type="text/css" rel="stylesheet" />
 
     <link rel="icon" type="image/x-icon" href="favicon/favicon.ico">
-    <title>Orkut</title>
+    <title>Orkut Home</title>
 </head>
 <body>
 
