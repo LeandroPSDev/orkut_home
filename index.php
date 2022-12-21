@@ -15,6 +15,14 @@
 <header>
     <div class="orkut-container">
         <div id="orkut-logo"><a href="#"><img src="images/orkut-logo.png" alt="Orkut" title="Orkut" /></a></div>
+            <nav>
+                <ul id="orkut-menu">
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Página de recados</a></li>
+                    <li><a href="#">Amigos</a></li>
+                    <li><a href="#">Comunidades</a></li>
+                </ul>
+            </nav>
     </div>
 </header>
 
