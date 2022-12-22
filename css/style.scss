@@ -42,6 +42,11 @@ footer {
 }
 
 #orkut-menu {
+    li {
+        list-style: none;
+        display: inline;
+    }
+
     a {
         color: #FFF;
     }
