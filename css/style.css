@@ -34,4 +34,12 @@ footer {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+#orkut-menu li {
+  list-style: none;
+  display: inline;
+}
+#orkut-menu a {
+  color: #FFF;
 }/*# sourceMappingURL=style.css.map */
