@@ -41,10 +41,18 @@ footer {
   transform: translate(-50%, -50%);
 }
 
+#orkut-menu {
+  display: inline-block;
+  margin: 15px 0;
+}
 #orkut-menu li {
   list-style: none;
   display: inline;
+  padding: 0 10px;
 }
 #orkut-menu a {
   color: #FFF;
+}
+#orkut-menu a:hover {
+  text-decoration: underline;
 }/*# sourceMappingURL=style.css.map */
