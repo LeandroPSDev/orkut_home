@@ -6,6 +6,10 @@ $topFooter_color: linear-gradient(to bottom, #6692c1, #75a0ca, #6692c1);
     box-sizing: border-box;
 }
 
+a {
+    text-decoration: none;
+}
+
 header,
 footer {
     background: $topFooter_color;
@@ -28,6 +32,7 @@ footer {
     width: 150px;
     height: 100%;
     position: relative;
+    float: left;
 
     img {
         max-width: 70%;

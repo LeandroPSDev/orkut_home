@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+a {
+  text-decoration: none;
+}
+
 header,
 footer {
   background: linear-gradient(to bottom, #6692c1, #75a0ca, #6692c1);
@@ -26,6 +30,7 @@ footer {
   width: 150px;
   height: 100%;
   position: relative;
+  float: left;
 }
 #orkut-logo img {
   max-width: 70%;
