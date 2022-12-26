@@ -55,4 +55,10 @@ footer {
 }
 #orkut-menu a:hover {
   text-decoration: underline;
+}
+
+#orkut-date-footer {
+  color: #FFF;
+  font-weight: bold;
+  display: none;
 }/*# sourceMappingURL=style.css.map */
