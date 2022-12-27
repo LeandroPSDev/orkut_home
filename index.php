@@ -31,10 +31,7 @@
 </main>
 
 <footer>
-    <div class="orkut-container">
-
-        <div id="orkut-date-footer"><?php echo date("Y"); ?></div>
-    </div>
+    <div class="orkut-container"></div>
 </footer>
     
 </body>
