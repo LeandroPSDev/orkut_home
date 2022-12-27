@@ -27,7 +27,7 @@
 </header>
 
 <main>
-    <!--<div class="orkut-container">Teste</div>-->
+    
 </main>
 
 <footer>
