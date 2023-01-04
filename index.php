@@ -21,6 +21,8 @@
                     <li><a href="#">Página de recados</a></li>
                     <li><a href="#">Amigos</a></li>
                     <li><a href="#">Comunidades</a></li>
+                    <!--<li><a href="#"></a></li>
+                    <li><a href="#"></a></li>-->
                 </ul>
             </nav>
     </div>
