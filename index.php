@@ -24,7 +24,7 @@
                     <li><a href="#">Comunidades</a></li>
                 </ul>
             </nav>
-            <!---->
+            <!--MENU PRINCIPAL-->
             
     </div>
 </header>
