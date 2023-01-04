@@ -15,7 +15,7 @@
 <header>
     <div class="orkut-container">
         <div id="orkut-logo"><a href="#"><img src="images/orkut-logo.png" alt="Orkut" title="Orkut" /></a></div>
-        <!--MENU PRINCIPAL-->
+        
             <nav>
                 <ul id="orkut-menu">
                     <li><a href="#">Início</a></li>
