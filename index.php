@@ -17,6 +17,8 @@
                 <ul id="orkut-menu">
                     <li><a href="#">Início</a></li>
                     <li><a href="#">Página de recados</a></li>
+                    <li><a href="#">Amigos</a></li>
+                    <li><a href="#">Comunidades</a></li>
                 </ul>
             </nav>
     </div>
@@ -27,7 +29,9 @@
 </main>
 
 <footer>
-    <div class="orkut-container"></div>
+    <div class="orkut-container">
+        <?php echo date("Y"); ?>
+    </div>
 </footer>
     
 </body>
