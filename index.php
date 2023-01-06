@@ -17,8 +17,6 @@
                 <ul id="orkut-menu">
                     <li><a href="#">Início</a></li>
                     <li><a href="#">Página de recados</a></li>
-                    <li><a href="#">Amigos</a></li>
-                    <li><a href="#">Comunidades</a></li>
                 </ul>
             </nav>
     </div>
