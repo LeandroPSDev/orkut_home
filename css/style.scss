@@ -51,7 +51,7 @@ body {
 }
 
 #orkut-menu {
-    display: inline-block;
+    float: left;
     margin: 15px 0;
 
 
@@ -68,6 +68,10 @@ body {
             text-decoration: underline;
         }
     }
+}
+
+#bloco-right-topo {
+    float: right;
 }
 
 #orkut-date-footer {

@@ -46,7 +46,7 @@ body {
 }
 
 #orkut-menu {
-  display: inline-block;
+  float: left;
   margin: 15px 0;
 }
 #orkut-menu li {
@@ -59,6 +59,10 @@ body {
 }
 #orkut-menu a:hover {
   text-decoration: underline;
+}
+
+#bloco-right-topo {
+  float: right;
 }
 
 #orkut-date-footer {
