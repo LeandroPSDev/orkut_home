@@ -63,7 +63,12 @@ body {
 
 #bloco-right-topo {
   float: right;
-  background: red;
+}
+#bloco-right-topo a {
+  color: blue;
+}
+#bloco-right-topo a:nth-child(2) {
+  color: red;
 }
 
 #orkut-date-footer {

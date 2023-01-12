@@ -72,7 +72,14 @@ body {
 
 #bloco-right-topo {
     float: right;
-    background: red;
+
+    a {
+        color: blue;
+    }
+
+    a:nth-child(2) {
+        color: red;
+    }
 }
 
 #orkut-date-footer {
