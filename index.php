@@ -25,6 +25,11 @@
             <div id="bloco-right-topo">
                 <a href="mailto:leandrops.dev@gmail.com">leandrops.dev@gmail.com</a>
                 <a href="javascript:void(0)">Sair</a>
+
+                <form action="pesquisa.php" method="post">
+                    <input type="text" name="pesquisa_orkut" placeholder="pesquisar no orkut">
+                    <button></button>
+</form>
             </div>
     </div>
 </header>
