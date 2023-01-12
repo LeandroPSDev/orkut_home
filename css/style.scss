@@ -86,10 +86,12 @@ body {
 
     a:nth-child(2) {
         color: #FFF;
+        font-weight: normal;
     }
 
     form {
-        background: #5f81b1
+        background: #5f81b1;
+        float: right;
     }
 
     input {
