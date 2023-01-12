@@ -21,6 +21,10 @@
                     <li><a href="#">Comunidades</a></li>
                 </ul>
             </nav>
+
+            <div id="bloco-right-topo">
+                <a href="mailto:leandrops.dev@gmail.com">leandrops.dev@gmail.com</a>
+            </div>
     </div>
 </header>
 
