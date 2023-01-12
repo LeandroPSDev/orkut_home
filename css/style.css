@@ -9,6 +9,10 @@ a {
   text-decoration: none;
 }
 
+button {
+  cursor: pointer;
+}
+
 header,
 footer {
   background: linear-gradient(to bottom, #6692c1, #75a0ca, #6692c1);
@@ -66,10 +70,12 @@ body {
   float: right;
 }
 #bloco-right-topo a {
-  color: blue;
+  color: #274b7b;
+  font-weight: bold;
+  font-size: 0.8em;
 }
 #bloco-right-topo a:nth-child(2) {
-  color: red;
+  color: #FFF;
 }
 #bloco-right-topo form {
   background: #5f81b1;

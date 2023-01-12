@@ -11,6 +11,10 @@ a {
     text-decoration: none;
 }
 
+button {
+    cursor: pointer;
+}
+
 header,
 footer {
     background: $topFooter_color;
@@ -75,11 +79,13 @@ body {
     float: right;
 
     a {
-        color: blue;
+        color: #274b7b;
+        font-weight: bold;
+        font-size: 0.8em;
     }
 
     a:nth-child(2) {
-        color: red;
+        color: #FFF;
     }
 
     form {
@@ -89,6 +95,8 @@ body {
     input {
         border: none;
     }
+
+
 }
 
 #orkut-date-footer {
