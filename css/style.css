@@ -68,11 +68,16 @@ body {
 
 #bloco-right-topo {
   float: right;
+  position: relative;
+  top: 10px;
 }
 #bloco-right-topo a {
   color: #274b7b;
   font-weight: bold;
   font-size: 0.8em;
+  padding: 0 5px;
+  position: relative;
+  top: 5px;
 }
 #bloco-right-topo a:nth-child(2) {
   color: #FFF;
@@ -81,6 +86,9 @@ body {
 #bloco-right-topo form {
   background: #5f81b1;
   float: right;
+  margin-left: 5px;
+  padding: 5px;
+  border-radius: 5px;
 }
 #bloco-right-topo input {
   border: none;
