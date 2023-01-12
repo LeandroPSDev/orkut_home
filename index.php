@@ -28,7 +28,7 @@
 
                 <form action="pesquisa.php" method="post">
                     <input type="text" name="pesquisa_orkut" placeholder="pesquisar no orkut">
-                    <button></button>
+                    <button>Ok</button>
 </form>
             </div>
     </div>

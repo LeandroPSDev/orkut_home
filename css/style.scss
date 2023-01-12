@@ -4,6 +4,7 @@ $topFooter_color: linear-gradient(to bottom, #6692c1, #75a0ca, #6692c1);
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    outline: none;
 }
 
 a {
@@ -79,6 +80,14 @@ body {
 
     a:nth-child(2) {
         color: red;
+    }
+
+    form {
+        background: #5f81b1
+    }
+
+    input {
+        border: none;
     }
 }
 

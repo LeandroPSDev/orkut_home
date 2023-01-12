@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  outline: none;
 }
 
 a {
@@ -69,6 +70,12 @@ body {
 }
 #bloco-right-topo a:nth-child(2) {
   color: red;
+}
+#bloco-right-topo form {
+  background: #5f81b1;
+}
+#bloco-right-topo input {
+  border: none;
 }
 
 #orkut-date-footer {
