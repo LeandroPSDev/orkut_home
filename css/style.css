@@ -20,6 +20,10 @@ footer {
   bottom: 0;
 }
 
+body {
+  font-family: arial;
+}
+
 .orkut-container {
   width: 90%;
   margin: auto;
